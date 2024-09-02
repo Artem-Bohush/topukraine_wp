@@ -1,0 +1,30 @@
+Routes 1.0
+
+Home UA - https://topukraine.net/
+About UA - https://topukraine.net/information/
+Tickets UA - https://topukraine.net/book-ua/
+Rent UA - https://topukraine.net/rent-bus/
+Return UA - https://topukraine.net/pravyla-povernennya-kvytkiv/
+Offer UA - https://topukraine.net/dogovir-oferty/
+Contacts UA - https://topukraine.net/kontakty/
+
+
+Home RU - https://topukraine.net/ru/glavnaya/
+About RU - https://topukraine.net/ru/informacziya/
+Tickets RU - https://topukraine.net/ru/book/
+Rent RU - https://topukraine.net/ru/rent-bus-ru/
+Return RU - https://topukraine.net/ru/pravila-vozvrata-bileta/
+Offer RU - https://topukraine.net/ru/dogovor-oferty/
+Contacts RU - https://topukraine.net/ru/kontakty-ru/
+
+//
+
+Routes 2.0
+
+
+1.Якщо квиток куплений через агента, то і повернення через агента.
+2.Якщо придбано квиток через фрейм, то повернення згідно вказаних на сайті умов, залежить від часу, що лишився до дати виїзду.
+3. Якщо квиток купується у нас напряму (я надаю клієнту картку Давида, для оплати), то вирішуємо питання індивідуально, залежить від обставин, які змусили пасажира відмовитись від квитка. Тут Давид приймає рішення.
+
+
+<?php esc_html_e('', 'topukraine');?>
